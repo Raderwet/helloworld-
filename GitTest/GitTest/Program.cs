@@ -5,7 +5,10 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Oh, hi, Mark!");
+            Console.WriteLine("Oh, Mark DEATH!");
+            Console.WriteLine("WAARGGGHHHH!!!!");
+            Console.WriteLine("WAARGGGHHHH!!!!");
+            Console.WriteLine("WAARGGGHHHH!!!!");
             Console.WriteLine("WAARGGGHHHH!!!!");
             Console.ReadKey();
         }
